@@ -16,7 +16,7 @@ languages:
         weight: 2
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname: aqiu-blog
 
 # GA Tracking ID
 googleAnalytics:
