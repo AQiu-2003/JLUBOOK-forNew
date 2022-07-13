@@ -2,18 +2,17 @@ baseurl: https://blog.aqiu.top
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: AQiu's Blog
+title: AQiuの个人博客
 
-languages:
-    
-    zh-cn:
-        languageName: 中文
-        title: AQiu的个人博客
-        weight: 1
-    en:
-        languageName: English
-        title: AQiu's Blog
-        weight: 2
+#languages:
+#    zh-cn:
+#        languageName: 中文
+#        title: AQiu的个人博客
+#        weight: 1
+#    en:
+#        languageName: English
+#        title: AQiu's Blog
+#        weight: 2
 
 # Change it to your Disqus shortname before using
 disqusShortname: aqiu-blog
@@ -41,20 +40,20 @@ params:
     favicon:
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
-        published: Jan 02, 2006
-        lastUpdated: Jan 02, 2006 15:04 MST
+        published: 2006 Jan 02
+        lastUpdated: 2006 Jan 02 15:04
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 🥳
+        subtitle: 欢迎来到我的个人博客网站，我会在这里分享一些学习、生活中的经验
         avatar:
             enabled: true
             local: true
-            src: img/avatar.png
+            src: img/heads.jpg
 
     article:
         math: false
@@ -69,7 +68,7 @@ params:
         provider: disqus
 
         disqusjs:
-            shortname:
+            shortname: aqiu-blog
             apiUrl:
             apiKey:
             admin:
@@ -192,15 +191,21 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
+          url: https://github.com/aqiu-2003
           params:
-              icon: brand-github
+              icon: github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
+        - identifier: bilibili
+          name: bilibili
+          url: https://space.bilibili.com/89032480
           params:
-              icon: brand-twitter
+              icon: bilibili-line
+
+        - identifier: QQ
+          name: QQ
+          url: tencent://message/?uin=1205057891&Site=&Menu=yes
+          params:
+              icon: QQ
 
 related:
     includeNewer: true
