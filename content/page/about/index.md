@@ -1,13 +1,12 @@
 ---
 title: 关于
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+description: 我们是谁？为什么要致力于JLUBOOK？
+date: '2022-07-14'
 aliases:
   - about-us
-  - about-hugo
   - contact
 license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2022-07-14'
 menu:
     main: 
         weight: -90
@@ -15,20 +14,23 @@ menu:
             icon: user
 ---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## JLUBook 最开始的想法
 
-Hugo makes use of a variety of open source projects including:
+时间回到 2022 年 3 月末，长春爆发的那场疫情似乎都让我们措手不及;在寝室的我还能干点啥，于是想:算了，要不做个网站试试?消息众多，或多或少我们都会忘了那么几件，找人帮 忙也不知该去问谁，于是乎，这个网站的想法就植入内心了。可惜，我是个菜鸡(骂骂咧咧 bushi) 上面的文字，可能就是这个网站的基础功能了吧，如同百宝箱一样的收纳校内对于我们而言有必 要知道的消息，如果忘记了，就在这个网站查一查，也算是服务于大家了。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## 关于我们
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+我们是一群用爱发电的吉大学生，建这个网站的初心就是服务于吉大学子。顺便说一句，这 不是大创项目，也不是什么创业项目，就是单纯地服务其他同学。里面包括学习资源，软件资源， 网站大全，新生指南，好用的攻略和教程......后续可能还会开放树洞等内容
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## 如何登录 JLUBook 官网
 
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+见下新生必备指南中“校园网入网以及获取邮箱的问题”，获取邮箱之后，更改完密码，登陆 吉大学生邮箱官网，然后就可以登陆 JLUBook 官网了。(只有等到开学才可以登陆 JLUBook 官网) (提醒一下，JLUBook 官网还有一些小彩蛋哦，还可以进入我们的 QQ 群)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+## 联系我们
+
+暂时只有 JLUBook 服务号以及微信公众号，QQ:391895681，微信公众号 JLUBook，如果有 什么求助可以联系我们，有什么需求建议联系微信公众号。
+我们还有 B 站的官方账号 JLUBook，会有一些视频教程，可以关注一下。
+
+## 致谢
+
+感谢 JLUBook 团队的各位成员以及学校其他学哥学姐们的支持，在这里以表感谢。

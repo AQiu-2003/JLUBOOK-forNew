@@ -40,8 +40,8 @@ params:
     favicon:
 
     footer:
-        since: 2022
-        customText:
+        since: 2021
+        customText: 苏ICP备2022011953号-1
 
     dateFormat:
         published: 2006年01月02日

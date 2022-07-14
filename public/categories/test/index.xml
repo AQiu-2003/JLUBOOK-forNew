@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Test on JLUBOOK 新生指南</title>
+        <link>https://blog.aqiu.top/categories/test/</link>
+        <description>Recent content in Test on JLUBOOK 新生指南</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language><atom:link href="https://blog.aqiu.top/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
