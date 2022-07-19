@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "入学指南/index.md",
+            "file": "地图/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "入学指南/index.md",
+                "file": "地图/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +89,9 @@
   },
   "active": "666765cfda091666",
   "lastOpenFiles": [
+    "入学指南/index.md",
     "地图/index.md",
     "南湖校区.webp.md",
-    "入学指南/index.md",
     "校内网址导航/index.md",
     "地图/cover.jpg",
     "地图/和平校区.jpg",
