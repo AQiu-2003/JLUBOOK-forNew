@@ -206,15 +206,15 @@ categories:
 
 软件:别问那么多，直接下载“吉大 V 卡”以及“掌上校园”。  
 
-吉大 V 卡（iOS/Android）:[官方链接]（https://mp.weixin.qq.com/s/q5nGaawf64r8Ao-1KCnHmw） （吉大 V 卡的密码好像是你身份证号后六位）
+吉大 V 卡（iOS/Android）:[官方链接](https://mp.weixin.qq.com/s/q5nGaawf64r8Ao-1KCnHmw) （吉大 V 卡的密码好像是你身份证号后六位）
 
-掌上校园（Android，暂无 iOS 版本）:[下载链接]（https://www.coolapk.com/apk/com.x90yang.HandSchool）
+掌上校园（Android，暂无 iOS 版本）:[下载链接](https://www.coolapk.com/apk/com.x90yang.HandSchool)
 
 还有“复兴壹号”（交团费），“铁路 12306”，导航软件（百度/高德），“国家反诈中心”（学校要求的，任务，懂得都懂），“中国银行”，“交通银行”（这几个软件都要下）
 
 公众号:海狸洗衣（洗衣机使用）、吉林大学教材服务、吉林大学图书馆、吉林大学校医院、 吉林大学信息化、吉青飞扬与青春吉大（青年大学习）、校园邦办（宿舍报修）·······（按需关注）
 
-> 还有，速速关注我们网站 [JLUBOOK]（jlubook.com）和公众号`JLUBOOK` 和 `吉人社`!（夹带私货
+> 还有，速速关注我们网站 [JLUBOOK](jlubook.com)和公众号`JLUBOOK` 和 `吉人社`!（夹带私货
 > ![jlubook](公众号jlubook.jpg)
 > ![jlubook](公众号吉人社.jpg)
 
@@ -249,7 +249,7 @@ categories:
 
 教材是由吉林省外文书店负责的，中心校区在日新楼四号门四楼
 
-电子书获取的视频教程:[bilibili链接]（https://www.bilibili.com/video/BV1cg411X7gS） 详细内容在 JLUBook 官网，我们在学习资源里提供了一些电子教材，但是缺了很多，如果有补充请联系我们。
+电子书获取的视频教程:[bilibili链接](https://www.bilibili.com/video/BV1cg411X7gS)详细内容在 JLUBook 官网，我们在学习资源里提供了一些电子教材，但是缺了很多，如果有补充请联系我们。
 
 教材购买有四种方式，新书购买，新书租赁，二手书购买，电子书使用，利弊如图所示:
 
@@ -386,7 +386,7 @@ categories:
 
 开放时间：夏季：11:00-21:00，冬季：11:00-20:00  
 
-请同学自己根据地图找到洗澡位置。需要带校园卡或者通过“吉大V卡”app进行预约。（二选一，软件下载请[点击这里]（https://mp.weixin.qq.com/s/q5nGaawf64r8Ao-1KCnHmw））洗澡的时候每到六毛就断一次水，如果用app预约的话，最多用断水最多三次（也就是2.4元）
+请同学自己根据地图找到洗澡位置。需要带校园卡或者通过“吉大V卡”app进行预约。（二选一，软件下载请[点击这里](https://mp.weixin.qq.com/s/q5nGaawf64r8Ao-1KCnHmw))洗澡的时候每到六毛就断一次水，如果用app预约的话，最多用断水最多三次（也就是2.4元）
 
 如果在没有疫情的情况下可以直接去洗，可以备一个密码锁关箱子。  
 
