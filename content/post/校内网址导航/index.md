@@ -1,12 +1,14 @@
 ---
 title: 校内网址导航
 description: 有待补充，尚不全面
-date: 2022-07-14  
+date: 2022-07-21
 slug: 网址导航
 categories:  
     - 网址导航
     - 校内网站
 ---
+
+> 注意：以下均为校内网，如在外网访问请使用VPN：[WEBVPN](https://vpns.jlu.edu.cn)
 
 | [吉大官网](吉大官网)| [教务管理系统](iedu.jlu.edu.cn) | [学生事务管理系统](sais.jlu.edu.cn) | [校内通知网](oa.jlu.edu.cn) |
 |:--:|:--:|:--:|:--:|

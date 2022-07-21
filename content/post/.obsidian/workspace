@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "地图/index.md",
+            "file": "入学指南/index.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "地图/index.md",
+                "file": "入学指南/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "666765cfda091666",
   "lastOpenFiles": [
+    "校内网址导航/index.md",
     "入学指南/index.md",
+    "入学指南/澡堂.jpg",
+    "入学指南/cover.jpg",
+    "入学指南/培养计划.jpg",
     "地图/index.md",
     "南湖校区.webp.md",
-    "校内网址导航/index.md",
     "地图/cover.jpg",
     "地图/和平校区.jpg",
-    "最新作息表/作息表.jpg",
-    "最新作息表/index.md",
-    "入学指南/cover.jpg",
-    "地图/南湖校区.webp"
+    "最新作息表/作息表.jpg"
   ]
 }
