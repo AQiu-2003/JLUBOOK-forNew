@@ -2,7 +2,7 @@
 title: 如何选择一款心仪的笔记本电脑
 description: 简单总结了一些笔记本的选购技巧
 date: 2022-07-21
-slug: 笔记本选购指南
+slug: how-to-select-a-pc
 image: cover.jpeg
 categories:
     - 指南

@@ -2,13 +2,14 @@
 title: 新生入学指南
 description: 新生入学需要知道的方方面面
 date: 2022-07-21  
-slug: 入学指南
+slug: new-student
 image: cover.jpg
 categories:
     - 指南
 tags:  
     - 入学
     - 新生
+weight: -100
 ---
 
 欢迎你们凭借着优异成绩来到美丽的吉林大学，这里是JLUBook团队，本页面是包含新生需要知道的方方面面内容。时间仓促，难免出现缺少以及纰漏，欢迎大家可以联系我们批评指正。
