@@ -4,8 +4,9 @@ description: 2021级的团关系转接说明
 date: 2022-07-22
 image: cover.png
 slug: 指南
-categories:  
+categories:
     - 指南
+tags:  
     - 团关系
     - 新生
 ---

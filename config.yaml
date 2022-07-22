@@ -58,10 +58,10 @@ params:
     article:
         math: false
         toc: true
-        readingTime: true
+        readingTime: false
         license:
             enabled: true
-            default: Licensed under CC BY-NC-SA 4.0
+            default: 版权归 JLUBOOK 团队所有
 
     comments:
         enabled: true
@@ -165,9 +165,9 @@ params:
 
     defaultImage:
         opengraph:
-            enabled: false
+            enabled: true
             local: false
-            src:
+            src: https://jlubook.com/wp-content/uploads/2022/07/cropped-JLUBOOK-ICON.png
 
     colorScheme:
         # Display toggle
@@ -202,7 +202,7 @@ menu:
               icon: bilibili-line
 
         - identifier: QQ
-          name: 加入JLUBOOK编辑群
+          name: 加入JLUBOOK学生交流群
           url: https://jq.qq.com/?_wv=1027&k=4WMI0xCH
           params:
               icon: QQ

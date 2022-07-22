@@ -4,9 +4,10 @@ description: 新生入学需要知道的方方面面
 date: 2022-07-21  
 slug: 入学指南
 image: cover.jpg
-categories:  
-    - 入学
+categories:
     - 指南
+tags:  
+    - 入学
     - 新生
 ---
 

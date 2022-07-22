@@ -4,7 +4,9 @@ description: 汇总了各个校区的地图，并做好了标注
 date: 2022-07-17
 slug: 校区地图
 image: cover.jpg
-categories:  
+categories:
+    - 地图
+tags:  
     - 地图  
 ---
 

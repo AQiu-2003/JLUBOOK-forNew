@@ -3,7 +3,9 @@ title: 最新作息表
 description: 变成一天13节课了（悲）
 date: 2022-07-14  
 slug: 作息表
-categories:  
+categories:
+    - 通知
+tags:  
     - 作息表
 ---
 
