@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "电脑选购指南/index.md",
+            "file": "新生团组织关系转接操作说明/index.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 195.5
+    "width": 250.5
   },
   "right": {
     "id": "09bd6b925a44e4d3",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "电脑选购指南/index.md",
+                "file": "新生团组织关系转接操作说明/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "666765cfda091666",
   "lastOpenFiles": [
-    "电脑选购指南/cover.jpeg",
-    "电脑选购指南/index.md",
-    "地图/index.md",
-    "地图/cover.jpg",
     "入学指南/index.md",
     "校内网址导航/index.md",
-    "入学指南/澡堂.jpg",
-    "入学指南/cover.jpg",
-    "入学指南/培养计划.jpg",
-    "南湖校区.webp.md"
+    "新生团组织关系转接操作说明/index.md",
+    "未命名.md",
+    "新生团组织关系转接操作说明/图片 1.jpg",
+    "最新作息表/index.md",
+    "电脑选购指南/index.md",
+    "电脑选购指南/cover.jpeg",
+    "地图/index.md",
+    "地图/cover.jpg"
   ]
 }
