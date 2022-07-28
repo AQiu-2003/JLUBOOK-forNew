@@ -12,6 +12,8 @@ weight: -90
 
 ## 注册流程
 
+官网网址: [jlubook.com](https://jlubook.com)
+
 > 一定要看，建议在电脑端食用，注意一下最后一句话！！！）
 
 1. 一定要先登陆吉大[邮箱官网](https://mails.jlu.edu.cn)！！！，如果不这么做，容易出现注册不上的问题；然后使用吉大邮箱注册 ，如果忘记吉大邮箱密码，请[点我](https://ehall.jlu.edu.cn/sso/user/forgot#/) 进行密码找回
