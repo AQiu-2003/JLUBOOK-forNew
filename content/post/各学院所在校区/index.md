@@ -1,7 +1,7 @@
 ---
 title: 各学院所在校区
 description: 各校区的学院及其属于的学部
-date: 2022-07-28
+date: 2022-07-29
 slug: how-to-register-jlubook
 image: cover.png
 categories:
