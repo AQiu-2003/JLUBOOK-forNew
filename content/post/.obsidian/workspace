@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "11fd9fd854d9a39c",
+        "id": "a75218f30f57e540",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "jlubook官网注册/cover.png"
+            "file": "入学指南/index.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -67,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "jlubook官网注册/cover.png",
+                "file": "入学指南/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,10 +87,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "11fd9fd854d9a39c",
+  "active": "a75218f30f57e540",
   "lastOpenFiles": [
-    "jlubook官网注册/index.md",
     "jlubook官网注册/cover.png",
+    "jlubook官网注册/index.md",
     "校内网址导航/index.md",
     "入学指南/index.md",
     "最新作息表/index.md",
