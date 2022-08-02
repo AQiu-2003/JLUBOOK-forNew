@@ -1,14 +1,12 @@
 ---
 title: 各学院所在校区
 description: 各校区的学院及其属于的学部
-date: 2022-07-29
-slug: how-to-register-jlubook
-image: cover.png
+date: 2022-08-02
+slug: campus-in-jlu
 categories:
-- 指南
+	- 百科
 tags:
-- 
-weight: -90
+	- 学院
 ---
 |校区|学部|
 |-|:-:|
