@@ -4,9 +4,9 @@ description: 各校区的学院及其属于的学部
 date: 2022-08-02
 slug: campus-in-jlu
 categories:
-	- 百科
+    - 百科
 tags:
-	- 学院
+    - 学院
 ---
 |校区|学部|
 |-|:-:|
